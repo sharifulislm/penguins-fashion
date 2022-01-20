@@ -6,6 +6,9 @@
 
 
 
+/* start section tow  */
+
+
 .btn .btn-success a {
     color: white;
     text-decoration: none;
@@ -14,3 +17,20 @@
   #first-section{
       background-color:#FFFBF0 ;
   } 
+  .p-3.img-boxw {
+    margin: auto;
+      margin-top: auto;
+    margin-top: 6px;}
+.card-shadow {
+    box-shadow: 2px 0px 6px #888;
+border: 0px solid white;
+}
+h5.card-title.fw-bold.card-title-iner-css {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+/* section 3 before css also here someint added new with before css  */
+
+.card.card-shadow2 {
+    border: none;
+}

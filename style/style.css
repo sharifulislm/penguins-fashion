@@ -34,3 +34,9 @@ h5.card-title.fw-bold.card-title-iner-css {
 .card.card-shadow2 {
     border: none;
 }
+
+/* section.section-end */
+
+section.section-end {
+    margin-top: 102px;
+}
